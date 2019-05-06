@@ -19,5 +19,3 @@ Just click the below link and immediately start working with it in the cloud.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tomasdembelli/pymangoExample/master?filepath=jupyter_Notebooks)
 
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/tomasdembelli/pymangoExample/master?filepath=jupyter_Notebooks
