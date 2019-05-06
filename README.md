@@ -8,5 +8,8 @@ This data is distributed under the OGL: http://www.nationalarchives.gov.uk/doc/o
 2- Install MangoDB: https://docs.mongodb.com/manual/administration/install-community/
 3- Install pymongo: I used 'pip3 install pymongo'
 But, here is the offical doc.: https://docs.opsmanager.mongodb.com/v1.2/monitoring/tutorial/install-pymongo/
-4- Follow the comments in the jupiter notebook file.
+4- Install Jupyter Notebook: https://jupyter.readthedocs.io/en/latest/install.html
+5- Clone this repo.
+6- Start the Jupyter Notebook from the 'jupyter_Notebooks' folder. 
+7- Follow the comments in the Jupyter Notebook file.
 
