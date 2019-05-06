@@ -8,5 +8,5 @@ This data is distributed under the OGL: http://www.nationalarchives.gov.uk/doc/o
 2- Install MangoDB: https://docs.mongodb.com/manual/administration/install-community/
 3- Install pymongo: I used 'pip3 install pymongo'
 But, here is the offical doc.: https://docs.opsmanager.mongodb.com/v1.2/monitoring/tutorial/install-pymongo/
-4- Follow the comments in the python files.
+4- Follow the comments in the jupiter notebook file.
 
