@@ -13,3 +13,8 @@ But, here is the offical doc.: https://docs.opsmanager.mongodb.com/v1.2/monitori
 6- Start the Jupyter Notebook from the 'jupyter_Notebooks' folder. 
 7- Follow the comments in the Jupyter Notebook file.
 
+OR
+
+Just click the below link and immediately start working with it in the cloud.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tomasdembelli/pymangoExample/master?filepath=jupyter_Notebooks)
