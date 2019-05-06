@@ -17,4 +17,4 @@ But, here is the offical doc.: https://docs.opsmanager.mongodb.com/v1.2/monitori
 <br>
 6- Start the Jupyter Notebook from the [jupyter_Notebooks](https://github.com/tomasdembelli/pymangoExample/tree/master/jupyter_Notebooks) folder.   
 <br>
-7- Follow the comments in the [Jupyter Notebook](https://github.com/tomasdembelli/pymangoExample/blob/master/jupyter_Notebooks/pymongoExample.ipynb) file.  
+7- Follow the comments in the [Jupyter Notebook](https://nbviewer.jupyter.org/github/tomasdembelli/pymangoExample/blob/master/jupyter_Notebooks/pymongoExample.ipynb) file.  
