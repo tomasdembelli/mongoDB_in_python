@@ -1,6 +1,7 @@
 # pymangoExample
 Shows how to use MongoDB from Python with a simple example exercise. 
 <br>
+<br>
 An example json file will be populated in MangoDB from Python.  
 Steps:  
 1- Download the example json file from: http://chargepoints.dft.gov.uk/api/retrieve/registry/format/json   
