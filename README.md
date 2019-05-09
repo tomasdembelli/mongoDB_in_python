@@ -16,6 +16,6 @@ But, here is the offical doc.: https://docs.opsmanager.mongodb.com/v1.2/monitori
 <br>
 5- Clone this repo: git clone https://github.com/tomasdembelli/pymangoExample.git  
 <br>
-6- Start the Jupyter Notebook from the [jupyter_Notebooks](https://github.com/tomasdembelli/pymangoExample/tree/master/jupyter_Notebooks) folder.   
+6- Start the Jupyter Notebook from the folder where the local repo lives.
 <br>
 7- Follow the comments in the [Jupyter Notebook](https://nbviewer.jupyter.org/github/tomasdembelli/pymangoExample/blob/master/jupyter_Notebooks/pymongoExample.ipynb) file.  
